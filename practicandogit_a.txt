@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 tu_uvus
 
 
 
 git checkout feature/practicandogit_a
+=======
+mi churri dice raw
+es una cebolla gatuna
+>>>>>>> e3f1dc9758911b42948591c41d408e02f6fef030
